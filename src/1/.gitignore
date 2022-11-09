@@ -1,0 +1,17 @@
+# Backup files #
+*.bak
+
+# Visual Studio Code #
+.vscode/*
+.history
+
+#PyCharm settings
+.idea/*
+
+#venv folders
+venv/*
+env/*
+_env/*
+
+#.env files
+.env*
